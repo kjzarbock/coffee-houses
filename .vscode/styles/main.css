@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shop {
+    flex-basis: calc(100% / 3 - 20px);
+    border: 1px solid #ccc;
+    flex-grow: 0;
+  }
+  
+
